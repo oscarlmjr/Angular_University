@@ -1,0 +1,2 @@
+angular-for-beginners-signals-course
+https://github.com/angular-university/angular-for-beginners-signals-course
