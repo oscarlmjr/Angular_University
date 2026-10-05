@@ -1,0 +1,3 @@
+[submodule "angular-for-beginners-signals-course"]
+	path = angular-for-beginners-signals-course
+	url = git@github.com:oscarlmjr/angular-for-beginners-signals-course.git
